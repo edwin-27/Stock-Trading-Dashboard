@@ -138,3 +138,32 @@
     color:#EF4444;
     font-weight:bold;
 }
+
+.transactions-section{
+    margin-top:40px;
+}
+
+table{
+    width:100%;
+    background:white;
+    border-collapse:collapse;
+    border-radius:12px;
+    overflow:hidden;
+    box-shadow:0 2px 8px rgba(0,0,0,0.1);
+}
+
+th{
+    background:#2563EB;
+    color:white;
+    text-align:left;
+    padding:15px;
+}
+
+td{
+    padding:15px;
+    border-bottom:1px solid #eee;
+}
+
+tr:hover{
+    background:#f8f9fa;
+}
