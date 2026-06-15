@@ -79,3 +79,31 @@
 .profit{
      color:#22C55E;
 }
+
+
+.chart-section{
+    margin-top:40px;
+}
+
+.chart-section h2{
+    margin-bottom:15px;
+}
+
+.chart-placeholder{
+    background:white;
+    height:300px;
+    border-radius:12px;
+    box-shadow:0 2px 8px rgba(0,0,0,0.1);
+
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.chart-line{
+    width:80%;
+    height:4px;
+    background:#2563EB;
+
+    transform:rotate(-10deg);
+}
