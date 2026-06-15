@@ -196,3 +196,51 @@ tr:hover{
     transform:translateY(-5px);
     transition:0.3s;
 }
+
+.trade-form-card{
+    background:white;
+    padding:30px;
+    border-radius:12px;
+    box-shadow:0 2px 8px rgba(0,0,0,0.1);
+}
+
+.form-group{
+    margin-bottom:20px;
+}
+
+.form-group label{
+    display:block;
+    margin-bottom:8px;
+    font-weight:bold;
+}
+
+.form-group input,
+.form-group select{
+    width:100%;
+    padding:12px;
+    border:1px solid #ddd;
+    border-radius:8px;
+}
+
+.button-group{
+    display:flex;
+    gap:15px;
+}
+
+.buy-btn{
+    background:#22C55E;
+    color:white;
+    border:none;
+    padding:12px 20px;
+    border-radius:8px;
+    cursor:pointer;
+}
+
+.sell-btn{
+    background:#EF4444;
+    color:white;
+    border:none;
+    padding:12px 20px;
+    border-radius:8px;
+    cursor:pointer;
+}
