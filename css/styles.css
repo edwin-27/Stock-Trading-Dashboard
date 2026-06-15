@@ -40,6 +40,13 @@
     border-radius:8px;
 }
 
+.search-container input{
+    width:500px;
+    padding:12px;
+    border:1px solid #ddd;
+    border-radius:8px;
+}
+
 .main-content{
     flex:1;
     padding:30px;
@@ -70,5 +77,5 @@
 }
 
 .profit{
-    color:var(--success);
+     color:#22C55E;
 }
