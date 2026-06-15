@@ -167,3 +167,32 @@ td{
 tr:hover{
     background:#f8f9fa;
 }
+
+.sidebar a.active{
+    background:#60A5FA;
+    padding:10px;
+    border-radius:8px;
+}
+
+.welcome-banner{
+    margin-bottom:30px;
+}
+
+.welcome-banner h1{
+    color:#1F2937;
+    margin-bottom:10px;
+}
+
+.welcome-banner p{
+    color:#6B7280;
+}
+
+.card:hover{
+    transform:translateY(-5px);
+    transition:0.3s;
+}
+
+.watch-card:hover{
+    transform:translateY(-5px);
+    transition:0.3s;
+}
