@@ -21,7 +21,7 @@ Stock Trading Dashboard is a responsive web application user interface designed 
 
 - HTML5
 - CSS3
-- Bootstrap 5
+
 
 ## Pages
 
