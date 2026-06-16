@@ -62,6 +62,10 @@ When the screen width falls below 768px:
 
 This approach ensures that the application remains accessible and user-friendly on desktop computers, tablets, and mobile devices.
 
+Mobile Device:
+<img width="302" height="549" alt="image" src="https://github.com/user-attachments/assets/95e8901e-2edc-40be-a218-97a9f24a2a0c" />
+
+
 
 ## Learning Objectives
 
