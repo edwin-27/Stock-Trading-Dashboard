@@ -47,6 +47,21 @@ Shows market trends, top gainers, top losers, and popular stocks.
 Contains account and notification preferences.
 <img width="877" height="710" alt="image" src="https://github.com/user-attachments/assets/73ccfabf-a7ac-4dcb-9579-63f9f8095b5a" />
 
+### Responsive Design Implementation
+
+To ensure compatibility across different devices, CSS media queries were implemented using a breakpoint of 768 pixels.
+
+When the screen width falls below 768px:
+
+• The dashboard layout changes from a horizontal layout to a vertical layout.
+• Navigation elements are reorganised for smaller screens.
+• Dashboard cards stack into a single column.
+• Market and watchlist cards display vertically.
+• Form controls expand to use available screen width.
+• Tables become scrollable where necessary.
+
+This approach ensures that the application remains accessible and user-friendly on desktop computers, tablets, and mobile devices.
+
 
 ## Learning Objectives
 
