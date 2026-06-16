@@ -35,12 +35,18 @@ Displays owned stocks and investment values.
 
 ### Trade
 Allows users to simulate buying and selling stocks through interactive forms.
+<img width="885" height="599" alt="image" src="https://github.com/user-attachments/assets/c8da0049-1a50-4118-87bd-d42692f46f00" />
+
 
 ### Market
 Shows market trends, top gainers, top losers, and popular stocks.
+<img width="890" height="682" alt="image" src="https://github.com/user-attachments/assets/8d366dc9-9bb8-4048-81ba-bdbee9dcdf3a" />
+
 
 ### Settings
 Contains account and notification preferences.
+<img width="877" height="710" alt="image" src="https://github.com/user-attachments/assets/73ccfabf-a7ac-4dcb-9579-63f9f8095b5a" />
+
 
 ## Learning Objectives
 
