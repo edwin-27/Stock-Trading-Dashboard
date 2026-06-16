@@ -30,6 +30,8 @@ Provides an overview of portfolio performance, market activity, and recent trans
 
 ### Portfolio
 Displays owned stocks and investment values.
+<img width="922" height="800" alt="image" src="https://github.com/user-attachments/assets/9f2c9709-e794-4eca-9e5c-3ee15a319dfc" />
+
 
 ### Trade
 Allows users to simulate buying and selling stocks through interactive forms.
